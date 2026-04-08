@@ -164,7 +164,7 @@ echo  - Gaming experience lebih smooth
 echo.
 echo  ====================================================
 echo.
-echo  Terima kasih telah menggunakan OPTI TOPAN!
+echo  Terima kasih telah menggunakan OPTI Ramardo!
 echo  PC + VGA Anda sekarang SUPER CEPAT!
 echo.
 echo  Tekan tombol apapun untuk keluar...
